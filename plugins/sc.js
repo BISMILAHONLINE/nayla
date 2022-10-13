@@ -2,7 +2,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
 *Hayo ngapain mau pasang ya?*
 *Nih w kasi*
-*https://github.com/zevoffc/nayla*
+*Beli Aja Di Owner Aowkaokwoak*
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '*NIH KASIAN LU*', 'status@broadcast')
