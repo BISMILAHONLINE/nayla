@@ -3,7 +3,7 @@ let info = `
 ┏━━°❀❬ *INFO* ❭❀°━━┓
 ┃
 ┃> Bot Recoded By :
-┃• Zevano
+┃• Swift Kawai
 ┃
 ┃> Bot Dibuat Dengan :
 ┃• JavaScript via NodeJS
@@ -16,12 +16,12 @@ let info = `
 ┃• RC047/Kuhong
 ┃
 ┣━━°❀❬ *DONASI* ❭❀°━━┓
-┣➥ *TRI:* [089520306297]
-┣➥ *Dana:* [08818770766]
-┣➥ *Gopay:* [08818770766]
-┣➥ *LinkAja:* [08818770766]
+┣➥ *AXIS:* [083112831554]
+┣➥ *Dana:* [083866366437]
+┣➥ *Gopay:* [0838666366437]
+┣➥ *LinkAja:* [088980870067]
 ┃ 「 *Chat OWNER* 」
-┃ > *INGIN DOANSI ? https://wa.me/628818770766*
+┃ > *INGIN DOANSI ? https://wa.me/6288980870067*
 ┗━━━━━━━━━━━━━━━━
 `.trim()
 
